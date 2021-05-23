@@ -1,0 +1,378 @@
+.datainput{
+    margin-top: 20px;
+}
+
+.datainput h3{
+    color:  #00A859;
+    margin-bottom: 20px;
+}
+
+.options{
+    margin: 0px auto;
+    display: flex
+}
+
+.input-button{
+    background: #e6eee6;    
+    height: 100px;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    margin-bottom: 15px;
+    box-shadow: 2px 2px 5px rgb(202, 200, 200);
+ 
+}
+
+.input-button a{
+    text-decoration: none;
+    color: black;
+}
+
+.input-button h3{
+    margin: 0px auto;
+    position: relative;
+    float: right;
+}
+
+/*-------------------GOBACK--------------------------*/
+
+.goback{
+    background: linear-gradient(#00A859, #6f7c6f);    
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    position: absolute;
+    top: 90%;
+    left: 82%;
+    box-shadow: 2px 2px 10px rgb(158, 157, 157);
+}
+
+.goback i{
+    position: relative;
+    color: white;
+    font-size: 25px;
+    top: 7px;
+}
+
+/*--------------DEPARTMENTS------------------------*/
+
+.departments{
+    margin-top: 20px;
+}
+
+.departments .new-entry{
+    float: right;
+    margin-right: 25px;
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 5px rgb(197, 195, 195);
+}
+
+.departments .table{
+    margin: auto;
+    width: 90%;
+    vertical-align: middle;
+}
+
+.departments tbody .td-name{
+    text-align: left;
+    font-size: 12px;
+}
+
+.departments thead .th-name{
+    text-align: left;
+}
+
+.departments tbody .td-option{
+    text-align: right;
+
+}
+.departments tbody .td-option button{
+    margin-left: 5px;
+    box-shadow: 2px 2px 5px rgb(197, 195, 195);
+
+}
+
+.departments thead .th-option{
+    text-align: right;
+
+}
+
+/*---------------------DEPARTEMENT FORM-------------------------*/
+
+.department-form{
+    background-color: #EFEFEF;
+    width: 90%;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.department-form input{
+    width: 95%;
+}
+
+.department-form button{
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+    background-color: white;
+}
+
+/*-------------------SERVICES---------------------------*/
+
+.services{
+    margin-top: 20px;
+}
+
+.services select{
+    width: 90%;
+    height: 29px;
+    margin-bottom: 10px;
+}
+
+.services .new-entry{
+    float: right;
+    margin-right: 25px;
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 5px rgb(197, 195, 195);
+}
+
+.services .table{
+    margin: auto;
+    width: 90%;
+    vertical-align: middle;
+}
+
+.services tbody .td-name{
+    text-align: left;
+    font-size: 12px;
+
+}
+
+.services thead .th-name{
+    text-align: left;
+
+}
+
+.services tbody .td-option{
+    text-align: right;
+    width: 150px;
+
+}
+.services tbody .td-option button{
+    margin-left: 5px;
+    box-shadow: 2px 2px 5px rgb(197, 195, 195);
+
+}
+
+.services thead .th-option{
+    text-align: right;
+
+}
+
+/*---------------------SERVICE FORM-------------------------*/
+
+.services-form{
+    background-color: #EFEFEF;
+    width: 90%;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.services-form input{
+    width: 95%;
+}
+
+.services-form button{
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+    background-color: white;
+}
+
+/*-------------------GUARDS---------------------------*/
+
+.guard{
+    margin-top: 20px;
+}
+
+.guard select{
+    width: 90%;
+    height: 29px;
+    margin-bottom: 10px;
+}
+
+.guard .new-entry{
+    float: right;
+    margin-right: 25px;
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 5px rgb(197, 195, 195);
+}
+
+.guard .table{
+    margin: auto;
+    width: 90%;
+    vertical-align: middle;
+}
+
+.guard tbody .td-name{
+    text-align: left;
+    font-size: 12px;
+
+}
+
+.guard thead .th-name{
+    text-align: left;
+
+}
+
+.guard tbody .td-option{
+    text-align: right;
+    width: 150px;
+
+}
+.guard tbody .td-option button{
+    margin-left: 5px;
+    box-shadow: 2px 2px 5px rgb(197, 195, 195);
+
+}
+
+.guard thead .th-option{
+    text-align: right;
+
+}
+
+/*---------------------GUARD FORM-------------------------*/
+
+.guard-form{
+    background-color: #EFEFEF;
+    width: 90%;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.guard-form input{
+    width: 95%;
+}
+
+.guard-form select{
+    width: 95%;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.guard-form button{
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+    background-color: white;
+}
+
+.form-check .checkbox{
+    width: 20px;
+    height: 20px;
+    margin-left: 0px;
+    margin-top: 15px;
+}
+
+.form-check .form-check-label{
+    float: left;
+    margin-left: 10px;
+    margin-top: 12px;
+}
+
+/*-------------------PERSONAL---------------------------*/
+
+.personal{
+    margin-top: 20px;
+}
+
+.personal select{
+    width: 90%;
+    height: 29px;
+    margin-bottom: 10px;
+}
+
+.personal .new-entry{
+    float: right;
+    margin-right: 25px;
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 5px rgb(197, 195, 195);
+}
+
+.personal .table{
+    margin: auto;
+    width: 90%;
+    vertical-align: middle;
+}
+
+.personal tbody .td-name{
+    text-align: left;
+    font-size: 12px;
+
+}
+
+.personal thead .th-name{
+    text-align: left;
+
+}
+
+.personal tbody .td-option{
+    text-align: right;
+    width: 150px;
+
+}
+.personal tbody .td-option button{
+    margin-left: 5px;
+    box-shadow: 2px 2px 5px rgb(197, 195, 195);
+
+}
+
+.personal thead .th-option{
+    text-align: right;
+
+}
+
+/*---------------------PERSONAL FORM-------------------------*/
+
+.personal-form{
+    background-color: #EFEFEF;
+    width: 90%;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.personal-form input{
+    width: 95%;
+    margin-top: 10px;
+}
+
+.personal-form select{
+    width: 95%;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.personal-form button{
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+    background-color: white;
+}
+
+

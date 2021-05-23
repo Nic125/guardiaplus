@@ -1,0 +1,19 @@
+.logo{
+    width: 120px;
+    margin: 5px;
+}
+
+.nav-item a i{
+    float: left;
+    margin-left: 50px;
+    margin-right: -50px;
+    color:  #00A859;
+}
+
+.navbar{
+    box-shadow: 0px 0px 20px lightgrey;
+}
+
+#navbarNav{
+    padding-bottom: 20px;
+}
