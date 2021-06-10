@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/guardiaplus/static/css/main.f2db7320.chunk.css",
-    "main.js": "/guardiaplus/static/js/main.5b76832e.chunk.js",
-    "main.js.map": "/guardiaplus/static/js/main.5b76832e.chunk.js.map",
+    "main.css": "/guardiaplus/static/css/main.8ced36ec.chunk.css",
+    "main.js": "/guardiaplus/static/js/main.d969f89b.chunk.js",
+    "main.js.map": "/guardiaplus/static/js/main.d969f89b.chunk.js.map",
     "runtime-main.js": "/guardiaplus/static/js/runtime-main.b7ba3537.js",
     "runtime-main.js.map": "/guardiaplus/static/js/runtime-main.b7ba3537.js.map",
     "static/js/2.464e174f.chunk.js": "/guardiaplus/static/js/2.464e174f.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.ee4b85c5.chunk.js": "/guardiaplus/static/js/3.ee4b85c5.chunk.js",
     "static/js/3.ee4b85c5.chunk.js.map": "/guardiaplus/static/js/3.ee4b85c5.chunk.js.map",
     "index.html": "/guardiaplus/index.html",
-    "static/css/main.f2db7320.chunk.css.map": "/guardiaplus/static/css/main.f2db7320.chunk.css.map",
+    "static/css/main.8ced36ec.chunk.css.map": "/guardiaplus/static/css/main.8ced36ec.chunk.css.map",
     "static/js/2.464e174f.chunk.js.LICENSE.txt": "/guardiaplus/static/js/2.464e174f.chunk.js.LICENSE.txt",
     "static/media/logo.1501c205.svg": "/guardiaplus/static/media/logo.1501c205.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b7ba3537.js",
     "static/js/2.464e174f.chunk.js",
-    "static/css/main.f2db7320.chunk.css",
-    "static/js/main.5b76832e.chunk.js"
+    "static/css/main.8ced36ec.chunk.css",
+    "static/js/main.d969f89b.chunk.js"
   ]
 }
